@@ -1,3 +1,8 @@
+#GAMEPLAY
+
+https://github.com/shahbaz900/CATCH-THE-OBJECT-GAME-IN-ASEEMBLY-LANGUAGE/assets/118073086/b6e5212f-d31a-476e-a778-c2cb2fcd9787
+
+
 # CATCH-THE-OBJECT-GAME-IN-ASSEMBLY-LANGUAGE
 
 Welcome to the "Catch-The-Object" game, a personal project crafted entirely in x86 microprocessor code. Dive into the intricacies of low-level programming, exploring the fascinating world of assembly language as you experience this captivating game.
